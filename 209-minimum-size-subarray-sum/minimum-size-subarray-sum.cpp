@@ -16,9 +16,8 @@ public:
         }
     }
     if (ans == INT_MAX) {
-    return 0;
-}
-
-return ans;
-}
-};
+        return 0;
+        }
+        return ans;
+        }
+    };
